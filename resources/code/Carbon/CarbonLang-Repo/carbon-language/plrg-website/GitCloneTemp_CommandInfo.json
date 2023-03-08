@@ -1,0 +1,10 @@
+{
+    "commandText": "git clone --progress --verbose https://github.com/carbon-language/plrg-website undefined\\carb--11-24-2022--irLPnARCmZx9ZWNdkcStLq/plrg-website",
+    "repo": "https://github.com/carbon-language/plrg-website",
+    "targetPath": "undefined\\carb--11-24-2022--irLPnARCmZx9ZWNdkcStLq/plrg-website",
+    "startTime": "2022-11-24T23:18:15.613Z",
+    "endTime": "2022-11-24T23:18:18.023Z",
+    "childProcessPid": 14172,
+    "commandLogFilePath": "/Users/brian/dev_space/GitHub-briancabbott/programming-sandbox-carbonlang/resources/code/CarbonLang-Repo/workingdir/--carbon-language--plrg-website--14172",
+    "executionErrors": []
+}

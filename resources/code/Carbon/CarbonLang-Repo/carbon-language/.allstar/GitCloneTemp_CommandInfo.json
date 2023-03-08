@@ -1,0 +1,10 @@
+{
+    "commandText": "git clone --progress --verbose https://github.com/carbon-language/.allstar undefined\\carb--11-24-2022--irLPnARCmZx9ZWNdkcStLq/.allstar",
+    "repo": "https://github.com/carbon-language/.allstar",
+    "targetPath": "undefined\\carb--11-24-2022--irLPnARCmZx9ZWNdkcStLq/.allstar",
+    "startTime": "2022-11-24T23:18:09.100Z",
+    "endTime": "2022-11-24T23:18:09.717Z",
+    "childProcessPid": 14161,
+    "commandLogFilePath": "/Users/brian/dev_space/GitHub-briancabbott/programming-sandbox-carbonlang/resources/code/CarbonLang-Repo/workingdir/--carbon-language--.allstar--14161",
+    "executionErrors": []
+}

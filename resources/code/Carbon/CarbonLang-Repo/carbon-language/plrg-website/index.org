@@ -1,0 +1,51 @@
+#+TITLE: PL Reading Group @ IU
+#+SUBTITLE: Fall 2022 🍁
+#+AUTHOR: Tianyu Chen
+#+SETUPFILE: ./white_clean.theme
+#+OPTIONS: ^:nil p:t num:0 author:nil
+
+* About
+
+@@html:<font color="#a90533">@@ The PL Reading Group @@html:</font>@@ (PLRG)
+is the de facto successor to PL Wonks and several previous reading groups.
+Unlike PL Wonks talk series, the focus of PLRG is paper reading and discussion.
+However, we do occasionally schedule presentations, practice talks, and tutorial
+sessions ([[*Schedule]]).
+
+*We are looking for presentations!* Please visit the "participating" page for
+details about voting for papers to read and scheduling your presentation.
+
+* Time
+
++ *Time:* <3:00 PM> on *Mondays*.
++ The event usually lasts *1 hour*. You may leave early.
++ If you are a speaker, please make sure your presentation is within *40 minutes*.
+
+* Location
+
++ *Room:* *BLIF-4101* (study room, 4th floor Luddy Hall)
++ Where is it? Search "Luddy Hall" on [[https://map.iu.edu/iub/][Campus Map]].
+
+* Schedule
+
+| *Date*             | *Paper Title / Presentation*                                                                                   | *Speaker(s)*     |
+|--------------------+----------------------------------------------------------------------------------------------------------------+------------------|
+| +<2022-09-05 Mon>+ | Labor Day                                                                                                      | N/A              |
+|--------------------+----------------------------------------------------------------------------------------------------------------+------------------|
+| <2022-09-12 Mon>   | *Paper Reading:* The Cartesian Product Algorithm: Simple and Precise Type Inference of Parametric Polymorphism | Group Discussion |
+|                    | *Links:* https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.30.8177&rep=rep1&type=pdf                   |                  |
+|--------------------+----------------------------------------------------------------------------------------------------------------+------------------|
+| <2022-09-19 Mon>   | *Paper Reading:* Separation Logic: A Logic for Shared Mutable Data Structures                                  | Group Discussion |
+|                    | *Links:* https://www.cs.cmu.edu/~jcr/seplogic.pdf                                                              |                  |
+|--------------------+----------------------------------------------------------------------------------------------------------------+------------------|
+| <2022-09-26 Mon>   | TBA                                                                                                            |                  |
+|--------------------+----------------------------------------------------------------------------------------------------------------+------------------|
+| <2022-10-03 Mon>   | TBA                                                                                                            |                  |
+|--------------------+----------------------------------------------------------------------------------------------------------------+------------------|
+| <2022-10-10 Mon>   | TBA                                                                                                            |                  |
+|--------------------+----------------------------------------------------------------------------------------------------------------+------------------|
+| <2022-10-17 Mon>   | TBA                                                                                                            |                  |
+|--------------------+----------------------------------------------------------------------------------------------------------------+------------------|
+| <2022-10-24 Mon>   | TBA                                                                                                            |                  |
+|--------------------+----------------------------------------------------------------------------------------------------------------+------------------|
+| <2022-10-31 Mon>   | TBA                                                                                                            |                  |

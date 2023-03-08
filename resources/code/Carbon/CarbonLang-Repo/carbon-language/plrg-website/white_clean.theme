@@ -1,0 +1,32 @@
+#+OPTIONS: org-html-head-include-default-style:nil
+
+#+HTML_HEAD: <link rel="preconnect" href="https://fonts.googleapis.com">
+#+HTML_HEAD: <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+#+HTML_HEAD: <link href="https://fonts.googleapis.com/css2?family=Fira+Mono&family=Libre+Baskerville&display=swap" rel="stylesheet">
+#+HTML_HEAD: <link rel="stylesheet" href="white_clean.css">
+#+HTML_HEAD: <link rel="shortcut icon" type="image/png" href="favicon.png">
+
+#+HTML_HEAD:<script type="text/javascript">
+#+HTML_HEAD:  document.addEventListener('DOMContentLoaded',function() {
+#+HTML_HEAD:      document.getElementById("table-of-contents").onclick = function() {
+#+HTML_HEAD:          var elem = document.getElementById("text-table-of-contents");
+#+HTML_HEAD:          elem.style.display = elem.style.display == "block" ? "none" : "block";
+#+HTML_HEAD:      }
+#+HTML_HEAD:  });
+#+HTML_HEAD:
+#+HTML_HEAD:  var url = document.location.href;
+#+HTML_HEAD:  var orgsource = url.substring(0, url.lastIndexOf("."))+".org.html";
+#+HTML_HEAD:  function show_org_source(){
+#+HTML_HEAD:      document.location.href = orgsource;
+#+HTML_HEAD:  }
+#+HTML_HEAD:</script>
+
+#+HTML_HEAD:  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+#+HTML_HEAD: <nav>
+#+HTML_HEAD: <b>#</b>
+#+HTML_HEAD: <a href="./index.html">        <u>Home         </u></a> |
+#+HTML_HEAD: <a href="./participation.html"><u>Participating</u></a> |
+#+HTML_HEAD: <a href="./contact.html">      <u>Contact      </u></a> |
+#+HTML_HEAD: <a href="./archive.html">      <u>Past Events  </u></a>
+#+HTML_HEAD: </nav>

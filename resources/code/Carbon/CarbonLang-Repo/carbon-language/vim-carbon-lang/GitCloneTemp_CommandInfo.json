@@ -1,0 +1,10 @@
+{
+    "commandText": "git clone --progress --verbose https://github.com/carbon-language/vim-carbon-lang undefined\\carb--11-24-2022--irLPnARCmZx9ZWNdkcStLq/vim-carbon-lang",
+    "repo": "https://github.com/carbon-language/vim-carbon-lang",
+    "targetPath": "undefined\\carb--11-24-2022--irLPnARCmZx9ZWNdkcStLq/vim-carbon-lang",
+    "startTime": "2022-11-24T23:18:18.024Z",
+    "endTime": "2022-11-24T23:18:18.896Z",
+    "childProcessPid": 14177,
+    "commandLogFilePath": "/Users/brian/dev_space/GitHub-briancabbott/programming-sandbox-carbonlang/resources/code/CarbonLang-Repo/workingdir/--carbon-language--vim-carbon-lang--14177",
+    "executionErrors": []
+}

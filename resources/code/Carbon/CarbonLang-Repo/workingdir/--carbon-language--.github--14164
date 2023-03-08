@@ -1,0 +1,4 @@
+child_process(14164)::clone(https://github.com/carbon-language/.github):stderr:data: Cloning into 'undefined\carb--11-24-2022--irLPnARCmZx9ZWNdkcStLq/.github'...
+child_process(14164)::clone(https://github.com/carbon-language/.github):stderr:data: POST git-upload-pack (193 bytes)
+child_process(14164)::clone(https://github.com/carbon-language/.github):stderr:data: warning: You appear to have cloned an empty repository.
+child_process(14164)::clone(https://github.com/carbon-language/.github):close()

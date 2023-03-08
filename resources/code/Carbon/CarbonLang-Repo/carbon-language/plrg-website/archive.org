@@ -1,0 +1,8 @@
+#+TITLE: PL Reading Group @ IU
+#+SUBTITLE: Past Events
+#+AUTHOR: Tianyu Chen
+#+SETUPFILE: ./white_clean.theme
+#+OPTIONS: ^:nil p:t num:0 author:nil
+
++ Fall 2021: [[./past-fall21.html][link]]
++ Spring and Summer 2022: [[./past-spring22.html][link]]
